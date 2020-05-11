@@ -1,0 +1,20 @@
+{
+    "userName" : "Tripp Stringfield",
+    "projects" : [
+        {
+            "title" : "Vacabuddy",
+            "imageSRC" : "./images/vaca.JPG",
+            "summary" : "Vacabuddy is a web application that allows a user to search for restaurants, events and breweries based on the users choice of City"
+        },
+        {
+            "title" : "GitMoney",
+            "imageSRC" : "/images/gitmoney.JPG",
+            "summary" : "A Full-Stack application that allows users to interact with live and historical stock data in a friendly and visual way including charts and tables. View current and past data about stock(s) that a user is interested in, sorted by daily, weekly, or monthly tracking. View historical data for years of information. Or make a dashboard with your favorite stocks with custom notes and minute-to-minute charts."
+        },
+        {
+            "title" : "The Grid",
+            "imageSRC": "./images/grid.JPG",
+            "summary" : "The Grid is a Single Pack React Application built on MERN Stack that is a social hub for the gaming community. You can sign up, create a profile, add allies, create/join clans, share posts, and comment on them."
+        }
+    ]
+}

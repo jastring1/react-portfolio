@@ -1,0 +1,10 @@
+.top-bar{
+    background-color: #6997EC;
+
+}
+
+#userName{
+    font-family: 'Titillium Web', sans-serif;
+    text-align: left;
+    font-size: 30px;
+}
